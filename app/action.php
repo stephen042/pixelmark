@@ -160,20 +160,20 @@ if (isset($_POST["action"]) && $_POST["action"] == "register") {
                                                                            </tr>
                                                                            <tr>
                                                                               <td style="color:rgb(193,205,220);font-family:Muli,Arial,sans-serif;font-size:20px;line-height:30px;padding-bottom:25px">
-                                                                                 <div>Welcome to <b>' . $name . '</b>, Thank you for choosing MintSeaSpace-NFT as your trading platform. Your creator account has been successfully created. Make sure to keep your login details safe for future references. For safety and security, never share your login details or password with anyone.<b> .<br></b>
+                                                                                 <div>Welcome to <b>' . $name . '</b>, Thank you for choosing Pixelmarkeverse-NFT as your trading platform. Your creator account has been successfully created. Make sure to keep your login details safe for future references. For safety and security, never share your login details or password with anyone.<b> .<br></b>
 
                                                                                  <br>
                                                                                  <br>
-                                                                                 As a registered trader of MintSeaSpace-NFT , you can now access:
-                  A large list of tradeable assets (NFT) using the Quirky trading platform And Ethereum network. Important notice: Trading account reflects the trading conditions of a platinum account type. Should you have any questions or concerns, please contact us at MintSeaSpace-NFT .org with your email or your updated contact number or visit our contact us page. If you prefer to contact us directly, or use the live chat in our site. You’re just a few steps away from trading with us.
+                                                                                 As a registered trader of Pixelmarkeverse-NFT , you can now access:
+                  A large list of tradeable assets (NFT) using the Quirky trading platform And Ethereum network. Important notice: Trading account reflects the trading conditions of a platinum account type. Should you have any questions or concerns, please contact us at Pixelmarkeverse-NFT .org with your email or your updated contact number or visit our contact us page. If you prefer to contact us directly, or use the live chat in our site. You’re just a few steps away from trading with us.
                                                                                     <br>
                                                                                     <br>
                                                                                     Disclaimer:
-                  MintSeaSpace-NFT is offering to rent hardware to clients for mining purposes. Clients that only rent hardware under investment considerations are reminded to carefully access the underlying risks of such an investment in hardware themselves. Join over 500,000 people with the world leading hashpower provider!
+                  Pixelmarkeverse-NFT is offering to rent hardware to clients for mining purposes. Clients that only rent hardware under investment considerations are reminded to carefully access the underlying risks of such an investment in hardware themselves. Join over 500,000 people with the world leading hashpower provider!
                                                                                     <br>
                                                                                     <br>
                                                                                     Your Happy Trading Support Team,
-                  MintSeaSpace-NFT Inc.
+                  Pixelmarkeverse-NFT Inc.
                                                                                     <br>
                                                                                     <br>
                                                                                     <center> <a href="https://' . $bankurl . '/login.php" style="

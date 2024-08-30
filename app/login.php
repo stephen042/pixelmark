@@ -86,11 +86,7 @@ $token1 = substr($token1, 0, 6);
 	<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 	<!-- live chat jivo -->
-	<!-- <script src="//code.jivosite.com/widget/btuvhpnkIw" async></script> -->
-
-
-
-
+	<script src="//code.jivosite.com/widget/x7LmAshb0H" async></script>
 </head>
 
 
