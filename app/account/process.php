@@ -494,13 +494,13 @@ if(isset($_POST['deposit'])){
                                                     </div>
                                                     <br>
                                                     
-                                                     <h4 class="text-uppercase mt-0"> Or Use Our Ethereum Deposit QR Code</h4>
+                                                     <!-- <h4 class="text-uppercase mt-0"> Or Use Our Ethereum Deposit QR Code</h4>
                                                     <p>Scan Our Qr Code Below:</p>
                                                     <div>
                                                         <center>
                         <img src="./eth.jpg" style="width:200px;height:200px;">
                                                         </center>
-                                                    </div> 
+                                                    </div>  -->
                                                     
 
                                                     <br>
